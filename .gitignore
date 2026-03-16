@@ -1,7 +1,8 @@
 node_modules/
 *.log
 .DS_Store
-credentials.json
+/credentials.json
 doubao-*.json
+!templates/credentials.json
 *.txt
 test-audio/
