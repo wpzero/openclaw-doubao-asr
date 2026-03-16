@@ -1,0 +1,26 @@
+{
+  "name": "@openclaw/doubao-asr",
+  "version": "1.0.0",
+  "description": "Doubao ASR voice transcription library for OpenClaw agents",
+  "main": "lib/index.js",
+  "scripts": {
+    "install-agent": "./install.sh"
+  },
+  "keywords": [
+    "openclaw",
+    "doubao",
+    "asr",
+    "voice",
+    "transcription"
+  ],
+  "author": "wpzero",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.18.0",
+    "uuid": "^11.0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wpzero/openclaw-doubao-asr"
+  }
+}
